@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="2680" viewBox="0 0 1440 2680"><title>PetStyle · Entregable de diseño</title><rect width="1440" height="2680" fill="#FFFFFF"/>
+<text x="64" y="66" font-family="Arial" font-size="32" font-weight="700" fill="#1A1A1A">PETSTYLE / WIREFRAME HOME</text>
+<text x="64" y="99" font-family="Arial" font-size="18" font-weight="400" fill="#625D6C">Escritorio · lienzo 1440 px · jerarquía de contenido · esquema de baja fidelidad</text>
+<rect x="64" y="136" width="1312" height="32" rx="0" fill="#D9D9DE" stroke="none"/>
+<text x="520" y="158" font-family="Arial" font-size="14" font-weight="400" fill="#1A1A1A">Anuncio: envío y contacto</text>
+<rect x="64" y="178" width="1312" height="72" rx="12" fill="#F3F3F5" stroke="#CFCBD5"/>
+<text x="80" y="206" font-family="Arial" font-size="18" font-weight="700" fill="#1A1A1A">HEADER · logo | buscador | contacto | carrito</text>
+<rect x="64" y="260" width="1312" height="54" rx="12" fill="#F3F3F5" stroke="#CFCBD5"/>
+<text x="80" y="288" font-family="Arial" font-size="18" font-weight="700" fill="#1A1A1A">NAVBAR · Perros · Gatos · Colecciones · Ofertas · Guía de tallas · Contacto</text>
+<rect x="64" y="338" width="858" height="350" rx="12" fill="#F3F3F5" stroke="#CFCBD5"/>
+<text x="80" y="366" font-family="Arial" font-size="18" font-weight="700" fill="#1A1A1A">HERO PRINCIPAL · Colección Cozy</text>
+<text x="80" y="391" font-family="Arial" font-size="14" font-weight="400" fill="#625D6C">Propuesta de valor + descripción + CTA a colección y tallas</text>
+<rect x="96" y="562" width="220" height="48" rx="12" fill="#BFC0C8" stroke="none"/>
+<text x="121" y="592" font-family="Arial" font-size="18" font-weight="400" fill="#1A1A1A">Ver colección</text>
+<rect x="330" y="562" width="220" height="48" rx="12" fill="#FFFFFF" stroke="#CFCBD5"/>
+<text x="353" y="592" font-family="Arial" font-size="18" font-weight="400" fill="#1A1A1A">Guía de tallas</text>
+<rect x="944" y="338" width="432" height="165" rx="12" fill="#F3F3F5" stroke="#CFCBD5"/>
+<text x="960" y="366" font-family="Arial" font-size="18" font-weight="700" fill="#1A1A1A">LANZAMIENTO RAIN</text>
+<text x="960" y="391" font-family="Arial" font-size="14" font-weight="400" fill="#625D6C">Descripción breve + CTA</text>
+<rect x="944" y="523" width="432" height="165" rx="12" fill="#F3F3F5" stroke="#CFCBD5"/>
+<text x="960" y="551" font-family="Arial" font-size="18" font-weight="700" fill="#1A1A1A">PROMOCIÓN</text>
+<text x="960" y="576" font-family="Arial" font-size="14" font-weight="400" fill="#625D6C">Ofertas + CTA</text>
+<text x="64" y="749" font-family="Arial" font-size="26" font-weight="700" fill="#1A1A1A">Colección Cozy Otoño</text>
+<text x="1250" y="749" font-family="Arial" font-size="16" font-weight="400" fill="#1A1A1A">Ver todo →</text>
+<rect x="64" y="772" width="310" height="235" rx="14" fill="#FFFFFF" stroke="#CFCBD5"/>
+<rect x="76" y="784" width="286" height="105" rx="8" fill="#E3E3E8" stroke="none"/>
+<text x="84" y="913" font-family="Arial" font-size="17" font-weight="400" fill="#1A1A1A">Producto · nombre</text>
+<text x="84" y="937" font-family="Arial" font-size="14" font-weight="400" fill="#625D6C">Precio + talla</text>
+<rect x="80" y="955" width="278" height="38" rx="12" fill="#BFC0C8" stroke="none"/>
+<text x="174" y="980" font-family="Arial" font-size="16" font-weight="400" fill="#1A1A1A">Agregar</text>
+<rect x="398" y="772" width="310" height="235" rx="14" fill="#FFFFFF" stroke="#CFCBD5"/>
+<rect x="410" y="784" width="286" height="105" rx="8" fill="#E3E3E8" stroke="none"/>
+<text x="418" y="913" font-family="Arial" font-size="17" font-weight="400" fill="#1A1A1A">Producto · nombre</text>
+<text x="418" y="937" font-family="Arial" font-size="14" font-weight="400" fill="#625D6C">Precio + talla</text>
+<rect x="414" y="955" width="278" height="38" rx="12" fill="#BFC0C8" stroke="none"/>
+<text x="508" y="980" font-family="Arial" font-size="16" font-weight="400" fill="#1A1A1A">Agregar</text>
+<rect x="732" y="772" width="310" height="235" rx="14" fill="#FFFFFF" stroke="#CFCBD5"/>
+<rect x="744" y="784" width="286" height="105" rx="8" fill="#E3E3E8" stroke="none"/>
+<text x="752" y="913" font-family="Arial" font-size="17" font-weight="400" fill="#1A1A1A">Producto · nombre</text>
+<text x="752" y="937" font-family="Arial" font-size="14" font-weight="400" fill="#625D6C">Precio + talla</text>
+<rect x="748" y="955" width="278" height="38" rx="12" fill="#BFC0C8" stroke="none"/>
+<text x="842" y="980" font-family="Arial" font-size="16" font-weight="400" fill="#1A1A1A">Agregar</text>
+<rect x="1066" y="772" width="310" height="235" rx="14" fill="#FFFFFF" stroke="#CFCBD5"/>
+<rect x="1078" y="784" width="286" height="105" rx="8" fill="#E3E3E8" stroke="none"/>
+<text x="1086" y="913" font-family="Arial" font-size="17" font-weight="400" fill="#1A1A1A">Producto · nombre</text>
+<text x="1086" y="937" font-family="Arial" font-size="14" font-weight="400" fill="#625D6C">Precio + talla</text>
+<rect x="1082" y="955" width="278" height="38" rx="12" fill="#BFC0C8" stroke="none"/>
+<text x="1176" y="980" font-family="Arial" font-size="16" font-weight="400" fill="#1A1A1A">Agregar</text>
+<text x="64" y="1059" font-family="Arial" font-size="26" font-weight="700" fill="#1A1A1A">Paseo &amp; Aventura</text>
+<text x="1250" y="1059" font-family="Arial" font-size="16" font-weight="400" fill="#1A1A1A">Ver todo →</text>
+<rect x="64" y="1082" width="310" height="235" rx="14" fill="#FFFFFF" stroke="#CFCBD5"/>
+<rect x="76" y="1094" width="286" height="105" rx="8" fill="#E3E3E8" stroke="none"/>
+<text x="84" y="1223" font-family="Arial" font-size="17" font-weight="400" fill="#1A1A1A">Producto · nombre</text>
+<text x="84" y="1247" font-family="Arial" font-size="14" font-weight="400" fill="#625D6C">Precio + talla</text>
+<rect x="80" y="1265" width="278" height="38" rx="12" fill="#BFC0C8" stroke="none"/>
+<text x="174" y="1290" font-family="Arial" font-size="16" font-weight="400" fill="#1A1A1A">Agregar</text>
+<rect x="398" y="1082" width="310" height="235" rx="14" fill="#FFFFFF" stroke="#CFCBD5"/>
+<rect x="410" y="1094" width="286" height="105" rx="8" fill="#E3E3E8" stroke="none"/>
+<text x="418" y="1223" font-family="Arial" font-size="17" font-weight="400" fill="#1A1A1A">Producto · nombre</text>
+<text x="418" y="1247" font-family="Arial" font-size="14" font-weight="400" fill="#625D6C">Precio + talla</text>
+<rect x="414" y="1265" width="278" height="38" rx="12" fill="#BFC0C8" stroke="none"/>
+<text x="508" y="1290" font-family="Arial" font-size="16" font-weight="400" fill="#1A1A1A">Agregar</text>
+<rect x="732" y="1082" width="310" height="235" rx="14" fill="#FFFFFF" stroke="#CFCBD5"/>
+<rect x="744" y="1094" width="286" height="105" rx="8" fill="#E3E3E8" stroke="none"/>
+<text x="752" y="1223" font-family="Arial" font-size="17" font-weight="400" fill="#1A1A1A">Producto · nombre</text>
+<text x="752" y="1247" font-family="Arial" font-size="14" font-weight="400" fill="#625D6C">Precio + talla</text>
+<rect x="748" y="1265" width="278" height="38" rx="12" fill="#BFC0C8" stroke="none"/>
+<text x="842" y="1290" font-family="Arial" font-size="16" font-weight="400" fill="#1A1A1A">Agregar</text>
+<rect x="1066" y="1082" width="310" height="235" rx="14" fill="#FFFFFF" stroke="#CFCBD5"/>
+<rect x="1078" y="1094" width="286" height="105" rx="8" fill="#E3E3E8" stroke="none"/>
+<text x="1086" y="1223" font-family="Arial" font-size="17" font-weight="400" fill="#1A1A1A">Producto · nombre</text>
+<text x="1086" y="1247" font-family="Arial" font-size="14" font-weight="400" fill="#625D6C">Precio + talla</text>
+<rect x="1082" y="1265" width="278" height="38" rx="12" fill="#BFC0C8" stroke="none"/>
+<text x="1176" y="1290" font-family="Arial" font-size="16" font-weight="400" fill="#1A1A1A">Agregar</text>
+<text x="64" y="1369" font-family="Arial" font-size="26" font-weight="700" fill="#1A1A1A">Rain Impermeables</text>
+<text x="1250" y="1369" font-family="Arial" font-size="16" font-weight="400" fill="#1A1A1A">Ver todo →</text>
+<rect x="64" y="1392" width="310" height="235" rx="14" fill="#FFFFFF" stroke="#CFCBD5"/>
+<rect x="76" y="1404" width="286" height="105" rx="8" fill="#E3E3E8" stroke="none"/>
+<text x="84" y="1533" font-family="Arial" font-size="17" font-weight="400" fill="#1A1A1A">Producto · nombre</text>
+<text x="84" y="1557" font-family="Arial" font-size="14" font-weight="400" fill="#625D6C">Precio + talla</text>
+<rect x="80" y="1575" width="278" height="38" rx="12" fill="#BFC0C8" stroke="none"/>
+<text x="174" y="1600" font-family="Arial" font-size="16" font-weight="400" fill="#1A1A1A">Agregar</text>
+<rect x="398" y="1392" width="310" height="235" rx="14" fill="#FFFFFF" stroke="#CFCBD5"/>
+<rect x="410" y="1404" width="286" height="105" rx="8" fill="#E3E3E8" stroke="none"/>
+<text x="418" y="1533" font-family="Arial" font-size="17" font-weight="400" fill="#1A1A1A">Producto · nombre</text>
+<text x="418" y="1557" font-family="Arial" font-size="14" font-weight="400" fill="#625D6C">Precio + talla</text>
+<rect x="414" y="1575" width="278" height="38" rx="12" fill="#BFC0C8" stroke="none"/>
+<text x="508" y="1600" font-family="Arial" font-size="16" font-weight="400" fill="#1A1A1A">Agregar</text>
+<rect x="732" y="1392" width="310" height="235" rx="14" fill="#FFFFFF" stroke="#CFCBD5"/>
+<rect x="744" y="1404" width="286" height="105" rx="8" fill="#E3E3E8" stroke="none"/>
+<text x="752" y="1533" font-family="Arial" font-size="17" font-weight="400" fill="#1A1A1A">Producto · nombre</text>
+<text x="752" y="1557" font-family="Arial" font-size="14" font-weight="400" fill="#625D6C">Precio + talla</text>
+<rect x="748" y="1575" width="278" height="38" rx="12" fill="#BFC0C8" stroke="none"/>
+<text x="842" y="1600" font-family="Arial" font-size="16" font-weight="400" fill="#1A1A1A">Agregar</text>
+<rect x="1066" y="1392" width="310" height="235" rx="14" fill="#FFFFFF" stroke="#CFCBD5"/>
+<rect x="1078" y="1404" width="286" height="105" rx="8" fill="#E3E3E8" stroke="none"/>
+<text x="1086" y="1533" font-family="Arial" font-size="17" font-weight="400" fill="#1A1A1A">Producto · nombre</text>
+<text x="1086" y="1557" font-family="Arial" font-size="14" font-weight="400" fill="#625D6C">Precio + talla</text>
+<rect x="1082" y="1575" width="278" height="38" rx="12" fill="#BFC0C8" stroke="none"/>
+<text x="1176" y="1600" font-family="Arial" font-size="16" font-weight="400" fill="#1A1A1A">Agregar</text>
+<text x="64" y="1679" font-family="Arial" font-size="26" font-weight="700" fill="#1A1A1A">Ofertas</text>
+<text x="1250" y="1679" font-family="Arial" font-size="16" font-weight="400" fill="#1A1A1A">Ver todo →</text>
+<rect x="64" y="1702" width="310" height="235" rx="14" fill="#FFFFFF" stroke="#CFCBD5"/>
+<rect x="76" y="1714" width="286" height="105" rx="8" fill="#E3E3E8" stroke="none"/>
+<text x="84" y="1843" font-family="Arial" font-size="17" font-weight="400" fill="#1A1A1A">Producto · nombre</text>
+<text x="84" y="1867" font-family="Arial" font-size="14" font-weight="400" fill="#625D6C">Precio + talla</text>
+<rect x="80" y="1885" width="278" height="38" rx="12" fill="#BFC0C8" stroke="none"/>
+<text x="174" y="1910" font-family="Arial" font-size="16" font-weight="400" fill="#1A1A1A">Agregar</text>
+<rect x="398" y="1702" width="310" height="235" rx="14" fill="#FFFFFF" stroke="#CFCBD5"/>
+<rect x="410" y="1714" width="286" height="105" rx="8" fill="#E3E3E8" stroke="none"/>
+<text x="418" y="1843" font-family="Arial" font-size="17" font-weight="400" fill="#1A1A1A">Producto · nombre</text>
+<text x="418" y="1867" font-family="Arial" font-size="14" font-weight="400" fill="#625D6C">Precio + talla</text>
+<rect x="414" y="1885" width="278" height="38" rx="12" fill="#BFC0C8" stroke="none"/>
+<text x="508" y="1910" font-family="Arial" font-size="16" font-weight="400" fill="#1A1A1A">Agregar</text>
+<rect x="732" y="1702" width="310" height="235" rx="14" fill="#FFFFFF" stroke="#CFCBD5"/>
+<rect x="744" y="1714" width="286" height="105" rx="8" fill="#E3E3E8" stroke="none"/>
+<text x="752" y="1843" font-family="Arial" font-size="17" font-weight="400" fill="#1A1A1A">Producto · nombre</text>
+<text x="752" y="1867" font-family="Arial" font-size="14" font-weight="400" fill="#625D6C">Precio + talla</text>
+<rect x="748" y="1885" width="278" height="38" rx="12" fill="#BFC0C8" stroke="none"/>
+<text x="842" y="1910" font-family="Arial" font-size="16" font-weight="400" fill="#1A1A1A">Agregar</text>
+<rect x="1066" y="1702" width="310" height="235" rx="14" fill="#FFFFFF" stroke="#CFCBD5"/>
+<rect x="1078" y="1714" width="286" height="105" rx="8" fill="#E3E3E8" stroke="none"/>
+<text x="1086" y="1843" font-family="Arial" font-size="17" font-weight="400" fill="#1A1A1A">Producto · nombre</text>
+<text x="1086" y="1867" font-family="Arial" font-size="14" font-weight="400" fill="#625D6C">Precio + talla</text>
+<rect x="1082" y="1885" width="278" height="38" rx="12" fill="#BFC0C8" stroke="none"/>
+<text x="1176" y="1910" font-family="Arial" font-size="16" font-weight="400" fill="#1A1A1A">Agregar</text>
+<rect x="64" y="1980" width="1312" height="95" rx="12" fill="#F3F3F5" stroke="#CFCBD5"/>
+<text x="80" y="2008" font-family="Arial" font-size="18" font-weight="700" fill="#1A1A1A">BENEFICIOS · 4 columnas</text>
+<text x="80" y="2033" font-family="Arial" font-size="14" font-weight="400" fill="#625D6C">Envíos · orientación de tallas · materiales · atención</text>
+<rect x="64" y="2095" width="1312" height="105" rx="12" fill="#F3F3F5" stroke="#CFCBD5"/>
+<text x="80" y="2123" font-family="Arial" font-size="18" font-weight="700" fill="#1A1A1A">QUIÉNES SOMOS · texto + botón de contacto</text>
+<rect x="64" y="2220" width="1312" height="150" rx="12" fill="#F3F3F5" stroke="#CFCBD5"/>
+<text x="80" y="2248" font-family="Arial" font-size="18" font-weight="700" fill="#1A1A1A">GUÍA DE TALLAS</text>
+<text x="80" y="2273" font-family="Arial" font-size="14" font-weight="400" fill="#625D6C">Tabla de medidas + explicación</text>
+<rect x="64" y="2390" width="1312" height="110" rx="12" fill="#F3F3F5" stroke="#CFCBD5"/>
+<text x="80" y="2418" font-family="Arial" font-size="18" font-weight="700" fill="#1A1A1A">CTA · título + campo de correo + botón + WhatsApp</text>
+<rect x="64" y="2520" width="1312" height="105" rx="12" fill="#F3F3F5" stroke="#CFCBD5"/>
+<text x="80" y="2548" font-family="Arial" font-size="18" font-weight="700" fill="#1A1A1A">FOOTER · contacto + ayuda + colecciones + información</text>
+</svg>

@@ -1,0 +1,150 @@
+{
+  "responsive": [
+    {
+      "width": 320,
+      "route": "/",
+      "viewport": 320,
+      "scroll": 320
+    },
+    {
+      "width": 320,
+      "route": "/tienda",
+      "viewport": 320,
+      "scroll": 320
+    },
+    {
+      "width": 320,
+      "route": "/producto/1",
+      "viewport": 320,
+      "scroll": 320
+    },
+    {
+      "width": 320,
+      "route": "/guia-de-tallas",
+      "viewport": 320,
+      "scroll": 320
+    },
+    {
+      "width": 320,
+      "route": "/contacto",
+      "viewport": 320,
+      "scroll": 320
+    },
+    {
+      "width": 320,
+      "route": "/no-existe",
+      "viewport": 320,
+      "scroll": 320
+    },
+    {
+      "width": 390,
+      "route": "/",
+      "viewport": 390,
+      "scroll": 390
+    },
+    {
+      "width": 390,
+      "route": "/tienda",
+      "viewport": 390,
+      "scroll": 390
+    },
+    {
+      "width": 390,
+      "route": "/producto/1",
+      "viewport": 390,
+      "scroll": 390
+    },
+    {
+      "width": 390,
+      "route": "/guia-de-tallas",
+      "viewport": 390,
+      "scroll": 390
+    },
+    {
+      "width": 390,
+      "route": "/contacto",
+      "viewport": 390,
+      "scroll": 390
+    },
+    {
+      "width": 390,
+      "route": "/no-existe",
+      "viewport": 390,
+      "scroll": 390
+    },
+    {
+      "width": 768,
+      "route": "/",
+      "viewport": 768,
+      "scroll": 768
+    },
+    {
+      "width": 768,
+      "route": "/tienda",
+      "viewport": 768,
+      "scroll": 768
+    },
+    {
+      "width": 768,
+      "route": "/producto/1",
+      "viewport": 768,
+      "scroll": 768
+    },
+    {
+      "width": 768,
+      "route": "/guia-de-tallas",
+      "viewport": 768,
+      "scroll": 768
+    },
+    {
+      "width": 768,
+      "route": "/contacto",
+      "viewport": 768,
+      "scroll": 768
+    },
+    {
+      "width": 768,
+      "route": "/no-existe",
+      "viewport": 768,
+      "scroll": 768
+    },
+    {
+      "width": 1440,
+      "route": "/",
+      "viewport": 1440,
+      "scroll": 1440
+    },
+    {
+      "width": 1440,
+      "route": "/tienda",
+      "viewport": 1440,
+      "scroll": 1440
+    },
+    {
+      "width": 1440,
+      "route": "/producto/1",
+      "viewport": 1440,
+      "scroll": 1440
+    },
+    {
+      "width": 1440,
+      "route": "/guia-de-tallas",
+      "viewport": 1440,
+      "scroll": 1440
+    },
+    {
+      "width": 1440,
+      "route": "/contacto",
+      "viewport": 1440,
+      "scroll": 1440
+    },
+    {
+      "width": 1440,
+      "route": "/no-existe",
+      "viewport": 1440,
+      "scroll": 1440
+    }
+  ],
+  "routes": [],
+  "errors": []
+}

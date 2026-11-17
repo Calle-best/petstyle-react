@@ -1,0 +1,22 @@
+{
+  "passed": 16,
+  "checks": [
+    "52 registros obtenidos por JSON Server y renderizados",
+    "Rutas y 404 con encabezado y pie compartidos",
+    "Buscador dinámico",
+    "Filtros combinados, precio máximo, limpieza y ordenamiento",
+    "Talla, cantidad, carrito y preparación de mensaje WhatsApp sin enviarlo",
+    "Carrito persistente tras recarga",
+    "Reducir cantidad y eliminar del carrito",
+    "Recuperación de almacenamiento con formato inválido",
+    "Formulario: campos vacíos, correo y teléfono inválidos, caso válido sin envío externo",
+    "Validación de newsletter con confirmación de demostración",
+    "Enlace Quiénes somos con sección real",
+    "Menú móvil, acordeón y cierre al navegar",
+    "Error HTTP y reintento exitoso",
+    "Estado de carga visible antes de recibir productos",
+    "Build de producción con /api/products en arnés HTTP local y recarga de ruta interna",
+    "Sin errores JavaScript no controlados durante la navegación"
+  ],
+  "errors": []
+}
